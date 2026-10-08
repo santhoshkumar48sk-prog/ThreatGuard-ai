@@ -1,0 +1,6 @@
+{
+  "name": "ThreatGuard AI",
+  "description": "AI-powered Threat Modeling & Security Validation platform for embedded systems. Automated attack surface discovery, STRIDE analysis, attack trees, security test generation, and compliance validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
